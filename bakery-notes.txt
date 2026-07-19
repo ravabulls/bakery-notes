@@ -3,3 +3,4 @@ Open Daily: 7 AM - 4 PM
 Secret Ingredient: High-quality Flour
 Weekend Special: Sourdough Croissants
 Edited in the browser
+Edited in the local
